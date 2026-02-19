@@ -1,0 +1,1 @@
+SELECT * FROM sales.transactions where market_code="Mark001";
